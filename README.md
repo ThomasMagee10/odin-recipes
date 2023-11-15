@@ -1,0 +1,1 @@
+This repo contains my recipes website as a part of the odin project
